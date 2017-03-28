@@ -1,3 +1,48 @@
-# telugu-texts
+వివిధ తెలుగు పఉస్తకాలను యూనికోడ్ రూపంలోకి మార్చి, html,epub, wiki రూపాల్లోకి మార్చే పని.
 
-A repo for raw text files for corrections etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

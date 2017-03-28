@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a560ac18-5c5e-4659-ba6c-ea69760cee7e</dc:identifier>
+        <dc:title>కొండవీటి రెడ్డిరాజులు</dc:title>
+        <dc:creator opf:file-as="శివనాగిరెడ్డి, ఈమని" opf:role="aut">ఈమని శివనాగిరెడ్డి</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>tel</dc:language>
+        <meta content="{&quot;ఈమని శివనాగిరెడ్డి&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-03-02T22:42:43+00:00" name="calibre:timestamp"/>
+        <meta content="కొండవీటి రెడ్డిరాజులు" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="koNddviitti reddddiraajulu - iimni shivnaagireddddi.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
